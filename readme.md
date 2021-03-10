@@ -11,15 +11,7 @@
         <img src="https://miro.medium.com/max/5570/1*dwwKFNHoQp4IyhP5C-LQaA.jpeg" width="1000" height="950">
         <p><abbr title="okhe"><cite>west and blues, </cite></abbr><q>Louis Armstrong and his Hot Five</q></p>
         <address><small>This is from:<br><a href="https://www.wikipedia.org/">Wikipedia</a></small></address>
-        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-        <script>mermaid.initialize({startOnLoad:true});</script>
-
-        It's the way of L.Armstrom:
-        <div class="mermaid">
-        graph LR
-        A[Practice] -->C[Star]
-        B[Talent] --> C[Star]
-        </div>
+        <img src="https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIHdheSBvZiBMLkFybXN0cm9uZ1xuICAgIFwiUHJhY3RpY2VcIiA6IDM4NlxuICAgIFwiTWFnaWNcIiA6IDgiLCJtZXJtYWlkIjp7fSwidXBkYXRlRWRpdG9yIjpmYWxzZX0" width="500" height="400">
 </body>
 </html>
 
